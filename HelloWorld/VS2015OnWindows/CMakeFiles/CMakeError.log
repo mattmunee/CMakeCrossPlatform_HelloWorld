@@ -1,0 +1,216 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+1
+Microsoft (R) Build Engine version 4.6.1038.0
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 1/7/2016 8:20:40 PM.
+Project "Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdC\CompilerIdC.vcxproj(18,3): error MSB4019: The imported project "Z:\Microsoft.Cpp.Default.props" was not found. Confirm that the path in the <Import> declaration is correct, and that the file exists on disk.
+Done Building Project "Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdC\CompilerIdC.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdC\CompilerIdC.vcxproj" (default target) (1) ->
+  Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdC\CompilerIdC.vcxproj(18,3): error MSB4019: The imported project "Z:\Microsoft.Cpp.Default.props" was not found. Confirm that the path in the <Import> declaration is correct, and that the file exists on disk.
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.51
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+1
+Microsoft (R) Build Engine version 4.6.1038.0
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 1/7/2016 8:20:43 PM.
+Project "Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdCXX\CompilerIdCXX.vcxproj(18,3): error MSB4019: The imported project "Z:\Microsoft.Cpp.Default.props" was not found. Confirm that the path in the <Import> declaration is correct, and that the file exists on disk.
+Done Building Project "Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdCXX\CompilerIdCXX.vcxproj" (default target) (1) ->
+  Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdCXX\CompilerIdCXX.vcxproj(18,3): error MSB4019: The imported project "Z:\Microsoft.Cpp.Default.props" was not found. Confirm that the path in the <Import> declaration is correct, and that the file exists on disk.
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.43
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+1
+Microsoft (R) Build Engine version 4.6.1038.0
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 1/7/2016 8:27:47 PM.
+Project "Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdC\CompilerIdC.vcxproj(18,3): error MSB4019: The imported project "Z:\Microsoft.Cpp.Default.props" was not found. Confirm that the path in the <Import> declaration is correct, and that the file exists on disk.
+Done Building Project "Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdC\CompilerIdC.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdC\CompilerIdC.vcxproj" (default target) (1) ->
+  Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdC\CompilerIdC.vcxproj(18,3): error MSB4019: The imported project "Z:\Microsoft.Cpp.Default.props" was not found. Confirm that the path in the <Import> declaration is correct, and that the file exists on disk.
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.46
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+1
+Microsoft (R) Build Engine version 4.6.1038.0
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 1/7/2016 8:27:51 PM.
+Project "Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdCXX\CompilerIdCXX.vcxproj(18,3): error MSB4019: The imported project "Z:\Microsoft.Cpp.Default.props" was not found. Confirm that the path in the <Import> declaration is correct, and that the file exists on disk.
+Done Building Project "Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdCXX\CompilerIdCXX.vcxproj" (default target) (1) ->
+  Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdCXX\CompilerIdCXX.vcxproj(18,3): error MSB4019: The imported project "Z:\Microsoft.Cpp.Default.props" was not found. Confirm that the path in the <Import> declaration is correct, and that the file exists on disk.
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.58
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+1
+Microsoft (R) Build Engine version 4.6.1038.0
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 1/7/2016 8:29:19 PM.
+Project "Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdC\CompilerIdC.vcxproj(18,3): error MSB4019: The imported project "Z:\Microsoft.Cpp.Default.props" was not found. Confirm that the path in the <Import> declaration is correct, and that the file exists on disk.
+Done Building Project "Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdC\CompilerIdC.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdC\CompilerIdC.vcxproj" (default target) (1) ->
+  Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdC\CompilerIdC.vcxproj(18,3): error MSB4019: The imported project "Z:\Microsoft.Cpp.Default.props" was not found. Confirm that the path in the <Import> declaration is correct, and that the file exists on disk.
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.51
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+1
+Microsoft (R) Build Engine version 4.6.1038.0
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 1/7/2016 8:29:22 PM.
+Project "Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdCXX\CompilerIdCXX.vcxproj(18,3): error MSB4019: The imported project "Z:\Microsoft.Cpp.Default.props" was not found. Confirm that the path in the <Import> declaration is correct, and that the file exists on disk.
+Done Building Project "Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdCXX\CompilerIdCXX.vcxproj" (default target) (1) ->
+  Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdCXX\CompilerIdCXX.vcxproj(18,3): error MSB4019: The imported project "Z:\Microsoft.Cpp.Default.props" was not found. Confirm that the path in the <Import> declaration is correct, and that the file exists on disk.
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.45
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+1
+Microsoft (R) Build Engine version 4.6.1038.0
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 1/7/2016 8:29:33 PM.
+Project "Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdC\CompilerIdC.vcxproj(18,3): error MSB4019: The imported project "Z:\Microsoft.Cpp.Default.props" was not found. Confirm that the path in the <Import> declaration is correct, and that the file exists on disk.
+Done Building Project "Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdC\CompilerIdC.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdC\CompilerIdC.vcxproj" (default target) (1) ->
+  Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdC\CompilerIdC.vcxproj(18,3): error MSB4019: The imported project "Z:\Microsoft.Cpp.Default.props" was not found. Confirm that the path in the <Import> declaration is correct, and that the file exists on disk.
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.43
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+1
+Microsoft (R) Build Engine version 4.6.1038.0
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 1/7/2016 8:29:36 PM.
+Project "Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdCXX\CompilerIdCXX.vcxproj(18,3): error MSB4019: The imported project "Z:\Microsoft.Cpp.Default.props" was not found. Confirm that the path in the <Import> declaration is correct, and that the file exists on disk.
+Done Building Project "Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdCXX\CompilerIdCXX.vcxproj" (default target) (1) ->
+  Z:\Network Common\HelloWorld\VS2015OnWindows\CMakeFiles\3.4.1\CompilerIdCXX\CompilerIdCXX.vcxproj(18,3): error MSB4019: The imported project "Z:\Microsoft.Cpp.Default.props" was not found. Confirm that the path in the <Import> declaration is correct, and that the file exists on disk.
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.46
+
+
